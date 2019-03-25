@@ -1,0 +1,245 @@
+Status code: 200
+Total repositories: 3619797
+Repositories returned: 30
+
+Selected information about first repository:
+
+Name: awesome-python
+Owner: vinta
+Stars: 64591
+Repository: https://github.com/vinta/awesome-python
+Created: 2014-06-27T21:00:06Z
+Updated: 2019-03-25T05:52:11Z
+Description: A curated list of awesome Python frameworks, libraries, software and resources
+
+Name: system-design-primer
+Owner: donnemartin
+Stars: 60020
+Repository: https://github.com/donnemartin/system-design-primer
+Created: 2017-02-26T16:15:28Z
+Updated: 2019-03-25T05:39:14Z
+Description: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+Name: public-apis
+Owner: toddmotto
+Stars: 53930
+Repository: https://github.com/toddmotto/public-apis
+Created: 2016-03-20T23:49:42Z
+Updated: 2019-03-25T05:55:25Z
+Description: A collective list of free APIs for use in software and web development.
+
+Name: models
+Owner: tensorflow
+Stars: 50197
+Repository: https://github.com/tensorflow/models
+Created: 2016-02-05T01:15:20Z
+Updated: 2019-03-25T05:55:08Z
+Description: Models and examples built with TensorFlow
+
+Name: youtube-dl
+Owner: ytdl-org
+Stars: 48501
+Repository: https://github.com/ytdl-org/youtube-dl
+Created: 2010-10-31T14:35:07Z
+Updated: 2019-03-25T05:00:47Z
+Description: Command-line program to download videos from YouTube.com and other video sites
+
+Name: flask
+Owner: pallets
+Stars: 42824
+Repository: https://github.com/pallets/flask
+Created: 2010-04-06T11:11:59Z
+Updated: 2019-03-25T01:39:53Z
+Description: The Python micro framework for building web applications.
+
+Name: thefuck
+Owner: nvbn
+Stars: 42096
+Repository: https://github.com/nvbn/thefuck
+Created: 2015-04-08T15:08:04Z
+Updated: 2019-03-25T04:41:30Z
+Description: Magnificent app which corrects your previous console command.
+
+Name: httpie
+Owner: jakubroztocil
+Stars: 40356
+Repository: https://github.com/jakubroztocil/httpie
+Created: 2012-02-25T12:39:13Z
+Updated: 2019-03-25T03:03:56Z
+Description: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+
+Name: django
+Owner: django
+Stars: 40319
+Repository: https://github.com/django/django
+Created: 2012-04-28T02:47:18Z
+Updated: 2019-03-25T05:10:50Z
+Description: The Web framework for perfectionists with deadlines.
+
+Name: keras
+Owner: keras-team
+Stars: 39393
+Repository: https://github.com/keras-team/keras
+Created: 2015-03-28T00:35:42Z
+Updated: 2019-03-25T05:53:09Z
+Description: Deep Learning for humans
+
+Name: awesome-machine-learning
+Owner: josephmisiti
+Stars: 38759
+Repository: https://github.com/josephmisiti/awesome-machine-learning
+Created: 2014-07-15T19:11:19Z
+Updated: 2019-03-25T05:08:41Z
+Description: A curated list of awesome Machine Learning frameworks, libraries and software.
+
+Name: requests
+Owner: kennethreitz
+Stars: 37766
+Repository: https://github.com/kennethreitz/requests
+Created: 2011-02-13T18:38:17Z
+Updated: 2019-03-25T02:08:34Z
+Description: Python HTTP Requests for Humans™ ✨🍰✨
+
+Name: ansible
+Owner: ansible
+Stars: 36072
+Repository: https://github.com/ansible/ansible
+Created: 2012-03-06T14:58:02Z
+Updated: 2019-03-25T05:27:11Z
+Description: Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
+
+Name: scikit-learn
+Owner: scikit-learn
+Stars: 34009
+Repository: https://github.com/scikit-learn/scikit-learn
+Created: 2010-08-17T09:43:38Z
+Updated: 2019-03-25T05:53:07Z
+Description: scikit-learn: machine learning in Python
+
+Name: big-list-of-naughty-strings
+Owner: minimaxir
+Stars: 32226
+Repository: https://github.com/minimaxir/big-list-of-naughty-strings
+Created: 2015-08-08T20:57:20Z
+Updated: 2019-03-25T04:07:49Z
+Description: The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+
+Name: scrapy
+Owner: scrapy
+Stars: 31992
+Repository: https://github.com/scrapy/scrapy
+Created: 2010-02-22T02:01:14Z
+Updated: 2019-03-25T05:35:38Z
+Description: Scrapy, a fast high-level web crawling & scraping framework for Python.
+
+Name: shadowsocks
+Owner: shadowsocks
+Stars: 29220
+Repository: https://github.com/shadowsocks/shadowsocks
+Created: 2012-04-20T13:10:49Z
+Updated: 2019-03-25T05:29:44Z
+Description: None
+
+Name: XX-Net
+Owner: XX-net
+Stars: 26950
+Repository: https://github.com/XX-net/XX-Net
+Created: 2015-01-15T09:35:51Z
+Updated: 2019-03-25T05:46:56Z
+Description: a web proxy tool
+
+Name: certbot
+Owner: certbot
+Stars: 24643
+Repository: https://github.com/certbot/certbot
+Created: 2014-11-12T02:52:20Z
+Updated: 2019-03-25T05:02:52Z
+Description: Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+
+Name: Python
+Owner: TheAlgorithms
+Stars: 23862
+Repository: https://github.com/TheAlgorithms/Python
+Created: 2016-07-16T09:44:01Z
+Updated: 2019-03-25T05:55:41Z
+Description: All Algorithms implemented in Python
+
+Name: cpython
+Owner: python
+Stars: 23163
+Repository: https://github.com/python/cpython
+Created: 2017-02-10T19:23:51Z
+Updated: 2019-03-25T05:41:04Z
+Description: The Python programming language
+
+Name: you-get
+Owner: soimort
+Stars: 22609
+Repository: https://github.com/soimort/you-get
+Created: 2012-08-20T15:53:36Z
+Updated: 2019-03-25T05:53:41Z
+Description: :arrow_double_down: Dumb downloader that scrapes the web
+
+Name: home-assistant
+Owner: home-assistant
+Stars: 22292
+Repository: https://github.com/home-assistant/home-assistant
+Created: 2013-09-17T07:29:48Z
+Updated: 2019-03-25T05:43:28Z
+Description: :house_with_garden: Open source home automation that puts local control and privacy first
+
+Name: Deep-Learning-Papers-Reading-Roadmap
+Owner: floodsung
+Stars: 22178
+Repository: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+Created: 2016-10-14T11:49:48Z
+Updated: 2019-03-25T05:11:07Z
+Description: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+
+Name: face_recognition
+Owner: ageitgey
+Stars: 22176
+Repository: https://github.com/ageitgey/face_recognition
+Created: 2017-03-03T21:52:39Z
+Updated: 2019-03-25T05:37:54Z
+Description: The world's simplest facial recognition api for Python and the command line
+
+Name: CppCoreGuidelines
+Owner: isocpp
+Stars: 21826
+Repository: https://github.com/isocpp/CppCoreGuidelines
+Created: 2015-08-19T20:22:52Z
+Updated: 2019-03-25T04:56:39Z
+Description: The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
+
+Name: tldr
+Owner: tldr-pages
+Stars: 21567
+Repository: https://github.com/tldr-pages/tldr
+Created: 2013-12-08T07:34:43Z
+Updated: 2019-03-25T05:54:30Z
+Description: :books: Simplified and community-driven man pages
+
+Name: Algorithm_Interview_Notes-Chinese
+Owner: imhuay
+Stars: 20246
+Repository: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
+Created: 2018-06-06T12:53:14Z
+Updated: 2019-03-25T05:54:31Z
+Description: 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
+
+Name: sentry
+Owner: getsentry
+Stars: 20210
+Repository: https://github.com/getsentry/sentry
+Created: 2010-08-30T22:06:41Z
+Updated: 2019-03-25T05:51:55Z
+Description: Sentry is cross-platform application monitoring, with a focus on error reporting.
+
+Name: python-patterns
+Owner: faif
+Stars: 19829
+Repository: https://github.com/faif/python-patterns
+Created: 2012-06-06T21:02:35Z
+Updated: 2019-03-25T04:08:03Z
+Description: A collection of design patterns/idioms in Python
